@@ -1,5 +1,5 @@
 # Projet_AI
-Groupe member : Kau William / Langelier Maxime / Leorat Marius / Lefrancois Gabin / Klink Carl / Girardot Arthur
+Group member : Kau William / Langelier Maxime / Leorat Marius / Lefrancois Gabin / Klink Carl / Girardot Arthur
 
 Dataset used :
 https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health
